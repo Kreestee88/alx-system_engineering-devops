@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+rwx $file_name
+chmod o+rwx hello
